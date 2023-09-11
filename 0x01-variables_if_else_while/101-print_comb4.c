@@ -8,7 +8,8 @@ int main(void)
 {
 	int numR;
 	int numL;
-	int numM;	
+	int numM;
+
 	for (numL = 48; numL <= 57; numL++)
 	{
 		for (numM = numL + 1; numM <= 57; numM++)
